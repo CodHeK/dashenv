@@ -1,6 +1,6 @@
 {
   "name": "dashenv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Set your env variables, client/server side.",
   "main": "index.js",
   "keywords" : ["env", "dashenv", "evironment", ".env", "dotenv", "Dotenv", "npm", "package", "codhek"],
